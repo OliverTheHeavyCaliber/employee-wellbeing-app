@@ -13,7 +13,7 @@ class MainpageController extends Controller
         
 
 
-    if(Auth::user()){
+ if(Auth::user()){
         
         $user_name = Auth::user()->fullname;
         $user_id = Auth::user()->id;
