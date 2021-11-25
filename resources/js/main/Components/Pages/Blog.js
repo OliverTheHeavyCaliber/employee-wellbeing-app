@@ -13,10 +13,7 @@ export default function Blog() {
                                 className="https://hbr.org/2021/10/7-strategies-to-improve-your-employees-health-and-well-being"
                                 href=""
                             >
-                                <h3>
-                                    7 Strategies to Improve Your Employees’
-                                    Health and Well-Being
-                                </h3>
+                                <h3>7 Strategies</h3>
                             </a>
                         </div>
                     </div>

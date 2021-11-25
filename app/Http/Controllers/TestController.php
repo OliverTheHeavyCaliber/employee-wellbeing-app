@@ -33,7 +33,7 @@ class TestController extends Controller
     }
 
     
-}
+ }
     public function store(Request $request, $testing_id) {
         $questionCount = Question::count();
 
@@ -85,4 +85,4 @@ return $request->all();
         
         return redirect('/test/' . $testing->id);
     }
-}
+} 

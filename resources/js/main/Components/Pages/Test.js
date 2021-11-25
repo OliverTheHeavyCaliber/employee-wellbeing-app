@@ -19,7 +19,7 @@ export default function Test() {
                     </a>
                 </div>
                 <div className="test-buttons">
-                    <a href="/test">
+                    <a href="/test/1">
                         <div className="reg-button reg-button_test">Test </div>
                     </a>
                     <a href="/statistics">

@@ -10,6 +10,8 @@
   <option value='1'>Test Round - 1</option>
   <option value='2'>Test Round - 2</option>
   <option value='3'>Test Round - 3</option>
+  <option value='4'>Test Round - 4</option>
+  <option value='5'>Test Round - 5</option>
     </select>
 
     <input type="submit" value="Display">

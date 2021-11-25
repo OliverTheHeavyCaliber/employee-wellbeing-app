@@ -199,7 +199,7 @@ function Blog() {
               className: "https://hbr.org/2021/10/7-strategies-to-improve-your-employees-health-and-well-being",
               href: "",
               children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("h3", {
-                children: "7 Strategies to Improve Your Employees\u2019 Health and Well-Being"
+                children: "7 Strategies"
               })
             })]
           })
@@ -423,7 +423,7 @@ function Test() {
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
         className: "test-buttons",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("a", {
-          href: "/test",
+          href: "/test/1",
           children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("div", {
             className: "reg-button reg-button_test",
             children: "Test "

@@ -39,7 +39,9 @@ Route::get('/send-enrollment', [EnrollmentController::class, 'sendEnrollmentNoti
 // Route::get('/recommendations', 'RecommendationsController@index');
 
 
+
 Route::post('/test/{id}', 'TestController@store');
+Route::get('/test/{id}', 'TestController@index');
 
 Route::post('/test/{id}/assign', 'TestController@assignTest');
 

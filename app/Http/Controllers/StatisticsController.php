@@ -39,6 +39,8 @@ class StatisticsController extends Controller
         $score = $sum /7; 
         
         $recommendation = EmployeeRecommendation::all();
+
+        
    
 if($score){
         foreach($recommendation as $recomend){
