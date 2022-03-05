@@ -6,39 +6,33 @@ export default function AboutUs() {
                 <div className="short-line"></div>
                 <div className="about-us-text">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit. Sed ut perspiciatis unde omnis iste natus error
-                        sit voluptatem accusantium doloremque laudantium, totam
-                        rem aperiam, eaque ipsa quae ab illo inventore veritatis
-                        et quasi architecto beatae vitae dicta sunt explicabo.
-                        Mauris dictum facilisis augue. Nulla quis diam. Integer
-                        malesuada. In enim a arcu imperdiet malesuada. Nam
-                        libero tempore, cum soluta nobis est eligendi optio
-                        cumque nihil impedit quo minus id quod maxime placeat
-                        facere possimus, omnis voluptas assumenda est, omnis
-                        dolor repellendus. Pellentesque arcu. Nullam eget nisl.
-                        Vivamus luctus egestas leo. Etiam bibendum elit eget
-                        erat. In rutrum. Sed convallis magna eu sem. Mauris
-                        elementum mauris vitae tortor. Vivamus ac leo pretium
-                        faucibus.
+                        We care about your wellbeing! We have designed this
+                        application in order to make measuring your wellbeing as
+                        an employee in the most accessible, funniest and easiest
+                        way. After you fill out your test, you will be able to
+                        measure your result which is going to show you whether
+                        you should be easier on yourself on whether you are
+                        doing just fine. Your results are going to be displayed
+                        anonymously to your employer. With our services you can
+                        feel completely safe. Letting of your steam has never
+                        been easier. If your result are alarming and you have a
+                        hunch things are not going that great, we provide you
+                        with a set of recommendations tailored just for you.
                     </p>
                     <div className="up-line"></div>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit. Sed ut perspiciatis unde omnis iste natus error
-                        sit voluptatem accusantium doloremque laudantium, totam
-                        rem aperiam, eaque ipsa quae ab illo inventore veritatis
-                        et quasi architecto beatae vitae dicta sunt explicabo.
-                        Mauris dictum facilisis augue. Nulla quis diam. Integer
-                        malesuada. In enim a arcu imperdiet malesuada. Nam
-                        libero tempore, cum soluta nobis est eligendi optio
-                        cumque nihil impedit quo minus id quod maxime placeat
-                        facere possimus, omnis voluptas assumenda est, omnis
-                        dolor repellendus. Pellentesque arcu. Nullam eget nisl.
-                        Vivamus luctus egestas leo. Etiam bibendum elit eget
-                        erat. In rutrum. Sed convallis magna eu sem. Mauris
-                        elementum mauris vitae tortor. Vivamus ac leo pretium
-                        faucibus.
+                        If you are an employer, our app is the perfect place for
+                        measuring and seeing how your employees are actually
+                        doing. It takes the pressure of your subordinates and
+                        provides them with space where they can give you
+                        feedback without feeling ashamed about expressing
+                        themselves openly. You will see overall data of your
+                        employees and based on them you will get a chance to
+                        make suitable changes within your organization. If you
+                        reach a substantially positive result with your employee
+                        ratings, you are guaranteed to receive our special badge
+                        of satisfaction. And the people of the world will see
+                        that within your offices, they can get all satisfaction!
                     </p>
                 </div>
             </div>

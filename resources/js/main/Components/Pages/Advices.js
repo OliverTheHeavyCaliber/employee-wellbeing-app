@@ -8,36 +8,36 @@ export default function Advices() {
                 <div className="advices-text-area">
                     <div className="advices-text-detiles">
                         <div className="advice-one">
-                            <h3>Advice title</h3>
+                            <h3>Stimulation</h3>
                             <p>
-                                Sed ut perspiciatis unde omnis iste natus error
-                                sit voluptatem accusantium doloremque
-                                laudantium, totam rem aperiam, eaque ipsa quae
-                                ab illo inventore veritatis et quasi architecto
-                                beatae vitae dicta sunt explicabo. Mauris dictum
-                                facilisis augue. Nulla quis diam.
+                                What stimulates your employee? Is it deadlines
+                                or the rewards? Do they prefer high salaries or
+                                more free time? How do you set up your company
+                                benefits in a way that's going to make your
+                                achievements skyrocket?
                             </p>
                         </div>
                         <div className="advice-one">
-                            <h3>Advice title</h3>
+                            <h3>Bias checker</h3>
                             <p>
-                                Sed ut perspiciatis unde omnis iste natus error
-                                sit voluptatem accusantium doloremque
-                                laudantium, totam rem aperiam, eaque ipsa quae
-                                ab illo inventore veritatis et quasi architecto
-                                beatae vitae dicta sunt explicabo. Mauris dictum
-                                facilisis augue.
+                                Every person is bound to be biased in one way or
+                                another. Our Bias section provides information
+                                about all the basic types of biases people might
+                                be prone to make. With keeping them in mind, you
+                                are at least more likely to keep these monsters
+                                at bay.
                             </p>
                         </div>
                         <div className="advice-one">
-                            <h3>Advice title</h3>
+                            <h3>Risk, Relaxation and Hormesis</h3>
                             <p>
-                                Sed ut perspiciatis unde omnis iste natus error
-                                sit voluptatem accusantium doloremque
-                                laudantium, totam rem aperiam, eaque ipsa quae
-                                ab illo inventore veritatis et quasi architecto
-                                beatae vitae dicta sunt explicabo. Mauris dictum
-                                facilisis augue. Nulla quis diam.
+                                Did you know that over the past few years,
+                                researchers have been exploring the benefits of
+                                exposing yourself to hormetic stress and
+                                empowers your wellbeing in the long run? With
+                                mixing relaxation techniques with hormetic
+                                stress practices, you can reached the heights of
+                                mental wellbeing you have never dreamed of.
                             </p>
                         </div>
                     </div>

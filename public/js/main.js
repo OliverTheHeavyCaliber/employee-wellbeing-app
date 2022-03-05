@@ -81,6 +81,7 @@ __webpack_require__.r(__webpack_exports__);
 function AboutUs() {
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
     children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+      id: "aboutUs",
       className: "about-us",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("h1", {
         className: "aboutus-title",
@@ -90,11 +91,11 @@ function AboutUs() {
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
         className: "about-us-text",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("p", {
-          children: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Mauris dictum facilisis augue. Nulla quis diam. Integer malesuada. In enim a arcu imperdiet malesuada. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Pellentesque arcu. Nullam eget nisl. Vivamus luctus egestas leo. Etiam bibendum elit eget erat. In rutrum. Sed convallis magna eu sem. Mauris elementum mauris vitae tortor. Vivamus ac leo pretium faucibus."
+          children: "We care about your wellbeing! We have designed this application in order to make measuring your wellbeing as an employee in the most accessible, funniest and easiest way. After you fill out your test, you will be able to measure your result which is going to show you whether you should be easier on yourself on whether you are doing just fine. Your results are going to be displayed anonymously to your employer. With our services you can feel completely safe. Letting of your steam has never been easier. If your result are alarming and you have a hunch things are not going that great, we provide you with a set of recommendations tailored just for you."
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("div", {
           className: "up-line"
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("p", {
-          children: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Mauris dictum facilisis augue. Nulla quis diam. Integer malesuada. In enim a arcu imperdiet malesuada. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Pellentesque arcu. Nullam eget nisl. Vivamus luctus egestas leo. Etiam bibendum elit eget erat. In rutrum. Sed convallis magna eu sem. Mauris elementum mauris vitae tortor. Vivamus ac leo pretium faucibus."
+          children: "If you are an employer, our app is the perfect place for measuring and seeing how your employees are actually doing. It takes the pressure of your subordinates and provides them with space where they can give you feedback without feeling ashamed about expressing themselves openly. You will see overall data of your employees and based on them you will get a chance to make suitable changes within your organization. If you reach a substantially positive result with your employee ratings, you are guaranteed to receive our special badge of satisfaction. And the people of the world will see that within your offices, they can get all satisfaction!"
         })]
       })]
     })
@@ -135,23 +136,23 @@ function Advices() {
           children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
             className: "advice-one",
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("h3", {
-              children: "Advice title"
+              children: "Stimulation"
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("p", {
-              children: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Mauris dictum facilisis augue. Nulla quis diam."
+              children: "What stimulates your employee? Is it deadlines or the rewards? Do they prefer high salaries or more free time? How do you set up your company benefits in a way that's going to make your achievements skyrocket?"
             })]
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
             className: "advice-one",
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("h3", {
-              children: "Advice title"
+              children: "Bias checker"
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("p", {
-              children: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Mauris dictum facilisis augue."
+              children: "Every person is bound to be biased in one way or another. Our Bias section provides information about all the basic types of biases people might be prone to make. With keeping them in mind, you are at least more likely to keep these monsters at bay."
             })]
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
             className: "advice-one",
             children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("h3", {
-              children: "Advice title"
+              children: "Risk, Relaxation and Hormesis"
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)("p", {
-              children: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Mauris dictum facilisis augue. Nulla quis diam."
+              children: "Did you know that over the past few years, researchers have been exploring the benefits of exposing yourself to hormetic stress and empowers your wellbeing in the long run? With mixing relaxation techniques with hormetic stress practices, you can reached the heights of mental wellbeing you have never dreamed of."
             })]
           })]
         })
